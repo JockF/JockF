@@ -6,7 +6,7 @@
 
   - My telegram - [click](https://t.me/JockMLTIME)
   - My website - [*Server*](http:/ml-time.xyz)
-  - I speak English / German / Russian
+  - I speak English / Russian
 
 
   # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
