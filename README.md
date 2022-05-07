@@ -1,5 +1,5 @@
 <p align=center>
-    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=JockF%22/%3E
+    <img alt="Visitors" src="
   </p>
 
   # 👋 Hello, that's github profile JockF / Привет, это github профиль JockF
@@ -33,7 +33,7 @@
     </a>
   </p>
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph%22%3E<img alt="JockF's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JockF&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="<img alt="JockF's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JockF&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
   <br>
 
