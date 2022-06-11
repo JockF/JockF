@@ -4,9 +4,9 @@
   
   # 👋 Hello, that's github profile JockF / Привет, это github профиль JockF
   
-  - My telegram - @avisov
-  - My website - [\*Be soon\*](https://) 
-  - I speak English / Ukrainian / Russian
+  - [My telegram](https://)
+  - My website - [\*Be soon\*](https://t.me/Jock_night) 
+  - I speak English / Russian
 
   
   # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
